@@ -1,6 +1,6 @@
 # Open Source Opportunities for Good Causes
 
-If you are a maintainer of open-source projects, fork this repo, add your details to the README.md and issue a PR. State what your main language/framework is.
+If you are a maintainer of a charity/non-profit open-source project or you can recommend such an open-source project, add it to the list:  fork this repo, add the details to the README.md and issue a PR. State what the main language/framework is.
 
 If you are a good cause and are interested in benefitting from open source, give me a shout.
 
